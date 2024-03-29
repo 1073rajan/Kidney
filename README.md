@@ -36,7 +36,7 @@ Each instance in the dataset is labeled with the presence or absence of kidney d
 - Run the Jupyter notebook or Python script to train the model and make predictions.
 
 ## Results
-Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting breast cancer. 
+Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting Kidney. 
 Further details on performance metrics and visualization of results can be found in the project documentation.
 
 ## Future Work
